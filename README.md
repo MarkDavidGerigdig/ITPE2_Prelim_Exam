@@ -1,5 +1,8 @@
-This is your prelim laboratory exam.
+---
+### Name: Mark David N Gerigdig
 
-Use everything you learned (if there is) in solving this repository.
-
-Goodluck!
+### Course || Year & Block || BSIT || 3-1
+---
+### Age:20
+---
+### Hobbies: Reading novel and manga
